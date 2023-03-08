@@ -23,8 +23,8 @@ article {
   flex-direction:column;
   align-items:center;
   justify-content:flex-end;
-  background: rgb(223, 110, 176);
-  background: linear-gradient(0deg, rgb(226, 101, 185) 40%, #eaadea 100%);
+  background: #93B7D6;
+  background: linear-gradient(0deg, rgb(122, 182, 243) 40%, #578dde 100%);
   box-shadow:0 0 20px 20px rgba(0,0,0,.1);
   border-radius:1rem;
   position: relative;
@@ -45,7 +45,7 @@ h1 {
   color: rgb(0, 0, 0);
 }
 
-button {
+/* button {
   border:none;
   position: absolute;
   right:1rem;
@@ -64,9 +64,9 @@ button:focus {
 }
 button:focus svg {
   stroke: rgba(0,239,255,1);
-}
+} */
 
-svg {
+/* svg {
   stroke: #4e54c8;
   position: absolute;
   top:calc(1.25rem - 12px);
@@ -76,11 +76,10 @@ svg {
 button svg:nth-of-type(2) {
   opacity:0;
   transition-delay: 0ms;
-}
+} */
 
 img {
-  width:10em;
-  border-radius:10em;
+  width:20em;
   border:5px solid #fff;
   box-shadow:0 0 2px 2px rgba(0,0,0,.2);
   position:relative;
