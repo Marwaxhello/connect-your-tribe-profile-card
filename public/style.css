@@ -58,8 +58,8 @@ h1 {
   position: absolute;
   right:1rem;
   top:1rem;
-  width:2.5rem;
-  height:2.5rem;
+  width:3.5rem;
+  height:3.5rem;
   transform: scale(.8);
   background: rgba(0,239,255,1);
   border-radius:50%;
@@ -68,6 +68,11 @@ h1 {
 }
 
 
+btn-work:hover{
+  background-color: #649b94;
+  color: white;
+
+}
 /* btn-work:focus {
   outline:none;
   background:#202592;
