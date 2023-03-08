@@ -26,7 +26,7 @@ article {
   justify-content:flex-end;
   background: #93B7D6;
   background: linear-gradient(0deg, rgb(122, 182, 243) 40%, #578dde 100%);
-  box-shadow:0 0 20px 20px rgba(0,0,0,.1);
+  /* box-shadow:0 0 20px 20px rgba(0,0,0,.1); */
   border-radius:.5rem;
   position: relative;
   transition:.25s;
@@ -42,7 +42,7 @@ header {
 }
 
 p{
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
@@ -53,7 +53,7 @@ h1 {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-/* button {
+.btn-work {
   border:none;
   position: absolute;
   right:1rem;
@@ -66,11 +66,13 @@ h1 {
   padding:.25rem;
   transition:.25s;
 }
-button:focus {
+
+
+/* btn-work:focus {
   outline:none;
   background:#202592;
-}
-button:focus svg {
+} */
+/* button:focus svg {
   stroke: rgba(0,239,255,1);
 } */
 
@@ -87,7 +89,7 @@ button svg:nth-of-type(2) {
 } */
 
 img {
-  width:20em;
+  width:17em;
   border:5px solid #fff;
   box-shadow:0 0 2px 2px rgba(0,0,0,.2);
   position:relative;
