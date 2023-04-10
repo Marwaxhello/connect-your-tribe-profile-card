@@ -1,23 +1,27 @@
 <%- include('./partials/head') %>
 
-<!-- HEADER VISITEKAARTJE -->
+<!-- VISITEKAARTJE -->
+
+<main>
+ 
+     <div class="border">
+         
+      <img class="marwapic" src="/Marwa-sunny.JPG" alt="foto of me">
+     </div>
 
 
-<section class="HEADER_CARD">
-  <img src="/Marwa-sunny.JPG" alt="Creative Coder">
-  <h1>
-    <%=member.name%>
-  </h1>
-  
-  <h1>
-    <%=member.surname%>
-  </h1>
+    <section class="name-section">
+      <h1 class="Marwa">
+        <%=member.name%>
+          <%=member.surname%>
+      </h1>
+      <p>Eerstejaars student van FDND - HvA</p>
+      <a href="https://github.com/Marwaxhello"><button>Github</button></a>
+      <a href="https://www.linkedin.com/in/marwa-hello-1098a7198/"><button>LinkedIn</button></a>
+      <a href="https://instagram.com/iiitsmarwa?igshid=YmMyMTA2M2Y="><button>Instagram</button></a>
+      <a href="http://www.studiomadedesign.nl/"><button>Portfolio</button></a>
+    </section>
 
-</section>
-
-<!-- <article>
-  <h1>Marwa Hello</h1>
-
-</article> -->
+</main>
 
 <%- include('./partials/foot') %>
