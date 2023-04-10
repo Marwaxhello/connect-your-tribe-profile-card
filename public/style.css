@@ -87,6 +87,7 @@ button {
     #9dd8e9 20%,
     #0f0b09 100%
   );
+  margin-right: -0.5em;
   padding: 10px 15px;
   text-align: center;
   text-transform: uppercase;
@@ -97,9 +98,13 @@ button {
   border-style: none;
   margin-bottom: 2.8em;
   margin-left: 0.5em;
+  margin-right: -0.5em;
   cursor: pointer;
 }
 
+.name-section > a {
+  margin-left: 0.8em;
+}
 
 button:hover {
   background-position: right center; /* change the direction of the change here */
