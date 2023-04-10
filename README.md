@@ -2,6 +2,8 @@
 
 # ✨VISITEKAARTJE ✨
 
+<img width="724" alt="Screenshot 2023-04-10 at 12 19 14" src="https://user-images.githubusercontent.com/112861555/230883240-d10416b9-3082-41fe-b86d-b27ddf8c2bda.png">
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
@@ -41,9 +43,6 @@ Voor deze opdracht heb ik een profile card opnieuw gemaakt met Node.js, hierdoor
 
 ## Cyclic.sh🌐 
 https://energetic-eel-pullover.cyclic.app/
-
-#### DISCLAMER
-Deze link werkt niet omdat ik maar drie links op cyclic.sh mag gebruiken en deze heb ik weggehaald!
 
 ## Licentie💯 
 
