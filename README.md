@@ -2,7 +2,7 @@
 
 # ✨VISITEKAARTJE ✨
 
-<img width="724" alt="Screenshot 2023-04-10 at 12 19 14" src="https://user-images.githubusercontent.com/112861555/230883240-d10416b9-3082-41fe-b86d-b27ddf8c2bda.png">
+<img width="882" alt="Screenshot 2023-04-12 at 17 10 51" src="https://user-images.githubusercontent.com/112861555/231501715-9381f560-7784-44b4-be83-6b1d4be8563d.png">
 
 ## Inhoudsopgave
 
